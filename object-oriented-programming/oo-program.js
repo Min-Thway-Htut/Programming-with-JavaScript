@@ -90,3 +90,10 @@ var fiji = new Parrot(false);
 
 polly.makeSound();
 fiji.makeSound();
+
+polly.color;
+polly.energy;
+
+polly.isActive();
+
+var penguin = new Bird
