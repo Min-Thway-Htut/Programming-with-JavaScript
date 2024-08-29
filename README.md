@@ -1,6 +1,6 @@
 # Learning JavaScript
 
-## Functions
+- ## Functions
 
 ## Functional Programming
 
