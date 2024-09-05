@@ -1,9 +1,13 @@
 # Learning JavaScript
 
-## Functions
+- ## Functions
 
-## Functional Programming
+- ## Functional Programming
 
-## Object-Oriented Programming
+- ## Object-Oriented Programming
 
-## De-structuring Arrays and Objects
+- ## De-structuring Arrays and Objects
+
+- ## Data Structures 
+
+- ## Spread and Rest Operators
